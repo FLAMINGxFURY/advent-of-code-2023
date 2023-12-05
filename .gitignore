@@ -1,3 +1,5 @@
 # Ignore compiled files
 *.exe
 *.pdb
+*.o
+*.bin
