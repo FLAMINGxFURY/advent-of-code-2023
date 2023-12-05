@@ -1,0 +1,1 @@
+D:\Documents\GitHub\advent-of-code-2023\Day\ 4\Rust\Day-4\target\debug\Day-4.exe: D:\Documents\GitHub\advent-of-code-2023\Day\ 4\Rust\Day-4\src\../../input.txt D:\Documents\GitHub\advent-of-code-2023\Day\ 4\Rust\Day-4\src\card.rs D:\Documents\GitHub\advent-of-code-2023\Day\ 4\Rust\Day-4\src\main.rs
